@@ -1,4 +1,3 @@
 Name: Aehanz Kyle A. Titular
-Section:
-Program
-Address
+Program: BSCS
+Address: Brgy. Bautista SPC
